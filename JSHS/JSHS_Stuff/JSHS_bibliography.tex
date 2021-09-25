@@ -1,0 +1,56 @@
+\documentclass[12pt]{article}
+\usepackage[letterpaper,portrait,margin=1.0in]{geometry}
+%
+
+
+% begin fonts section
+% for use with xelatex and lualatex but not with pdflatex
+\usepackage{fontspec}
+\usepackage{times}
+\setmainfont{times}
+% comment or uncomment AMS math symbol as needed
+\usepackage{amssymb}
+% comment or uncomment and use other Greek packages as needed  
+\usepackage{textgreek} % use in textmode (bibliographies), non-italicized upright non-bold font
+\usepackage{upgreek} % use in mathmode (equations), non-italicized upright bold font
+% end fonts section
+
+
+% begin other packages section
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage[svgnames]{xcolor}
+\usepackage{url}
+\usepackage{nameref}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+\usepackage{algorithmicx}
+\usepackage{graphicx}
+%\usepackage{rotating}
+%\usepackage[justification=centering]{caption} 
+% end other packages section
+
+
+% begin BibLaTeX section
+\usepackage[backend=biber,texencoding=utf8,bibencoding=utf8,style=ieee,maxnames=3,bibwarn=true]{biblatex}
+\renewcommand*{\revsdnamepunct}{} % to eliminate the extra comma between last name and firstmiddle initials
+% remember to include the *.bib extension on filenames in the \addbibresource{BibliographicResourceFile} command
+%\addbibresource{CarlTaswell.bib}
+\addbibresource{JSHS_bibliography.bib}
+% http://tex.stackexchange.com/questions/121661/biblatex-remove-the-eng-from-citations
+\AtEveryBibitem{\clearlist{language}} % removes unnecessary use of "eng" as language
+% https://tex.stackexchange.com/questions/331870/is-there-a-recommended-way-to-replace-cite-with-parencite
+\AtBeginBibliography{\small}
+% end BibLaTeX section
+
+
+% local macros for LaTeX document
+% additional preamble with commands, example custom hyphenation, and header declarations
+\newcommand{\BibLaTeX}{Bib\LaTeX}
+\newcommand{\etal}{\textit{et al}.}
+\newcommand{\pdscod}[1]{\textbf{#1}}
+\newcommand{\regtm}{\textsuperscript{\textregistered}}
+\hyphenation{non-dis-cri-mi-na-tion tele-gaming TeX-studio}
+\nocite{*}
+\begin{document}
+	\printbibliography
+\end{document}

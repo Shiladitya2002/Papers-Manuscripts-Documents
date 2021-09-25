@@ -1,0 +1,41 @@
+% Edited and typeset in TeXstudio with compile options for LuaLaTeX and biber
+% Source tex file has no active references to or use of BibLaTeX
+
+\documentclass[12pt]{article}
+\usepackage{fontspec}
+
+\usepackage[portrait,letterpaper,lmargin=1.0in,textwidth=6.5in,tmargin=1.0in,textheight=9.0in]{geometry}
+
+% uncomment and use Greek packages if reference citations contain Greek letters (alpha, beta, epsilon, etc) 
+% \usepackage{textgreek}
+% \usepackage{upgreek}
+
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{url}
+\usepackage{nameref}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+\usepackage{graphicx}
+%\usepackage{biblatex}
+\setmainfont{Times}
+
+% \usepackage[backend=biber,texencoding=utf8,bibencoding=utf8,bibstyle=ieee,citestyle=ieee,bibwarn=true]{biblatex}
+% please update these commands with your student name and version date of your proposal
+\newcommand{\studentname}{Shiladitya Dutta}
+\newcommand{\versiondate}{2018-September-16}
+
+
+\begin{document}
+\thispagestyle{empty}
+\begin{center}
+
+\noindent
+Generation and Analysis of Semantic Metadata Records Based on the Targeted Retrieval of Open-Web Resources for an Automated Article Search Engine Agent
+
+\end{center}
+\vspace{2.5mm}
+
+In this project I describe CoVaSEA (Concept-Validating Search Engine Agent): an automated web crawler/query engine to act as a semantically-based scientific article search engine. Due to the machine-understandable nature of the semantic web, it is well placed to perform a variety of data analysis tasks. However, semantically formatted records are labor intensive to create and maintain due to the substantial and rapidly increasing quantities of scientific literature available on the open web. To remedy this, CoVaSEA was created with the intention of providing an automated method for users to navigate and expand the semantic records of scientific literature. To this end, CoVaSEA integrates multiple features including: (A) Targeted web-crawling for relevant articles from external literature databases to broaden semantic records, (B) Translation of free-form text into RDF triples to derive the graph-based semantic portrayal of lexical data for the NPDS database, and (C) An implementation of SPARQL query based search to allow for retrieval and manipulation of RDF semantic records. With the distinct advantage that the system is automated, CoVaSEA presents the capability to search “externally” to furnish large numbers of semantic literature descriptions on a regular basis and search “internally” to provide a method of retrieving those descriptions, thus laying the groundwork for a variety of future applications for which semantic metadata stores of scientific literature along with a method of analyzing these stores are a necessity.
+
+
+\end{document}

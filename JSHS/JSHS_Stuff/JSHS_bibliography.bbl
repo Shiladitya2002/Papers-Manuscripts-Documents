@@ -1,0 +1,609 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{berners2001semantic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b03c1c11511fa3c1c6224a741f227be4}{%
+           family={Hendler},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fb144ce9931b409b1bdccdff7d3a4ecd}{%
+           family={Lassila},
+           familyi={L\bibinitperiod},
+           given={Ora},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{f4ea8e196bdf65a991bf6b05075d7d62}
+      \strng{fullhash}{f4ea8e196bdf65a991bf6b05075d7d62}
+      \strng{bibnamehash}{f4ea8e196bdf65a991bf6b05075d7d62}
+      \strng{authorbibnamehash}{f4ea8e196bdf65a991bf6b05075d7d62}
+      \strng{authornamehash}{f4ea8e196bdf65a991bf6b05075d7d62}
+      \strng{authorfullhash}{f4ea8e196bdf65a991bf6b05075d7d62}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific american}
+      \field{number}{5}
+      \field{title}{The semantic web}
+      \field{volume}{284}
+      \field{year}{2001}
+      \field{pages}{34\bibrangedash 43}
+      \range{pages}{10}
+    \endentry
+    \entry{lassila1999resource}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fb144ce9931b409b1bdccdff7d3a4ecd}{%
+           family={Lassila},
+           familyi={L\bibinitperiod},
+           given={Ora},
+           giveni={O\bibinitperiod}}}%
+        {{hash=89d93b5b5baadb8cf0c0ce92484e4d36}{%
+           family={Swick},
+           familyi={S\bibinitperiod},
+           given={Ralph\bibnamedelima R},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{74cb846cbd8da13b744973f71e21131a}
+      \strng{fullhash}{74cb846cbd8da13b744973f71e21131a}
+      \strng{bibnamehash}{74cb846cbd8da13b744973f71e21131a}
+      \strng{authorbibnamehash}{74cb846cbd8da13b744973f71e21131a}
+      \strng{authornamehash}{74cb846cbd8da13b744973f71e21131a}
+      \strng{authorfullhash}{74cb846cbd8da13b744973f71e21131a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Resource description framework (RDF) model and syntax specification}
+      \field{year}{1999}
+    \endentry
+    \entry{berners2004uniform}{report}{}
+      \name{author}{3}{}{%
+        {{hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c6055872081cf3b6db6ba40e9af2fad9}{%
+           family={Fielding},
+           familyi={F\bibinitperiod},
+           given={Roy},
+           giveni={R\bibinitperiod}}}%
+        {{hash=572fa1885b6150573a5367aa6b1642a9}{%
+           family={Masinter},
+           familyi={M\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a48be7e60edf8824c6c5f3e56da20ba}
+      \strng{fullhash}{7a48be7e60edf8824c6c5f3e56da20ba}
+      \strng{bibnamehash}{7a48be7e60edf8824c6c5f3e56da20ba}
+      \strng{authorbibnamehash}{7a48be7e60edf8824c6c5f3e56da20ba}
+      \strng{authornamehash}{7a48be7e60edf8824c6c5f3e56da20ba}
+      \strng{authorfullhash}{7a48be7e60edf8824c6c5f3e56da20ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Uniform resource identifier (URI): Generic syntax}
+      \field{type}{techreport}
+      \field{year}{2004}
+    \endentry
+    \entry{harris2013sparql}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dad88e15878a9c1b972860de786ecb0f}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b0f2e76dd842dc9052f49422b3cc10e6}{%
+           family={Seaborne},
+           familyi={S\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=409e0b4000152444e201a69510c7895c}{%
+           family={Prud’hommeaux},
+           familyi={P\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bedeb6ac7c4477e19eb0c3879760313}
+      \strng{fullhash}{2bedeb6ac7c4477e19eb0c3879760313}
+      \strng{bibnamehash}{2bedeb6ac7c4477e19eb0c3879760313}
+      \strng{authorbibnamehash}{2bedeb6ac7c4477e19eb0c3879760313}
+      \strng{authornamehash}{2bedeb6ac7c4477e19eb0c3879760313}
+      \strng{authorfullhash}{2bedeb6ac7c4477e19eb0c3879760313}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{W3C recommendation}
+      \field{number}{10}
+      \field{title}{SPARQL 1.1 query language}
+      \field{volume}{21}
+      \field{year}{2013}
+    \endentry
+    \entry{knoth2012core}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a2f02b5227784fa9edf9ed1832c59568}{%
+           family={Knoth},
+           familyi={K\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c0def96a420b762dda866565981a7beb}{%
+           family={Zdrahal},
+           familyi={Z\bibinitperiod},
+           given={Zdenek},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Corporation for National Research Initiatives}%
+      }
+      \strng{namehash}{94cb37aba82aa78dc56a1974c8923015}
+      \strng{fullhash}{94cb37aba82aa78dc56a1974c8923015}
+      \strng{bibnamehash}{94cb37aba82aa78dc56a1974c8923015}
+      \strng{authorbibnamehash}{94cb37aba82aa78dc56a1974c8923015}
+      \strng{authornamehash}{94cb37aba82aa78dc56a1974c8923015}
+      \strng{authorfullhash}{94cb37aba82aa78dc56a1974c8923015}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{D-Lib Magazine}
+      \field{number}{11/12}
+      \field{title}{CORE: three access levels to underpin open access}
+      \field{volume}{18}
+      \field{year}{2012}
+    \endentry
+    \entry{clark2015entity}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=fc24d54994dc7c0893aaf6e1ca5fb42b}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1261894eaefc186bfeabf336e05e6294}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima D},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d0fa07c03c5659fe796191658cbfeb4}
+      \strng{fullhash}{5d0fa07c03c5659fe796191658cbfeb4}
+      \strng{bibnamehash}{5d0fa07c03c5659fe796191658cbfeb4}
+      \strng{authorbibnamehash}{5d0fa07c03c5659fe796191658cbfeb4}
+      \strng{authornamehash}{5d0fa07c03c5659fe796191658cbfeb4}
+      \strng{authorfullhash}{5d0fa07c03c5659fe796191658cbfeb4}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)}
+      \field{title}{Entity-centric coreference resolution with model stacking}
+      \field{volume}{1}
+      \field{year}{2015}
+      \field{pages}{1405\bibrangedash 1415}
+      \range{pages}{11}
+    \endentry
+    \entry{finkel2005incorporating}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=4de26fb3b3f2f480bc1eafd9e4d3c78a}{%
+           family={Finkel},
+           familyi={F\bibinitperiod},
+           given={Jenny\bibnamedelima Rose},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=978fa1abbba10679dc3d70d791eb1b43}{%
+           family={Grenager},
+           familyi={G\bibinitperiod},
+           given={Trond},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ff4377244c68b8beb3253e53d6387f94}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{f1e5295006f0d4967b64bd099d44df81}
+      \strng{fullhash}{f1e5295006f0d4967b64bd099d44df81}
+      \strng{bibnamehash}{f1e5295006f0d4967b64bd099d44df81}
+      \strng{authorbibnamehash}{f1e5295006f0d4967b64bd099d44df81}
+      \strng{authornamehash}{f1e5295006f0d4967b64bd099d44df81}
+      \strng{authorfullhash}{f1e5295006f0d4967b64bd099d44df81}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 43rd annual meeting on association for computational linguistics}
+      \field{title}{Incorporating non-local information into information extraction systems by gibbs sampling}
+      \field{year}{2005}
+      \field{pages}{363\bibrangedash 370}
+      \range{pages}{8}
+    \endentry
+    \entry{banerjee2002adapted}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=82e9bc9432281635a52d33d808963314}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Satanjeev},
+           giveni={S\bibinitperiod}}}%
+        {{hash=67a5b974557234da8071c47ede9e85c5}{%
+           family={Pedersen},
+           familyi={P\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{63270e1888fbafec0be14a0fd26a17c5}
+      \strng{fullhash}{63270e1888fbafec0be14a0fd26a17c5}
+      \strng{bibnamehash}{63270e1888fbafec0be14a0fd26a17c5}
+      \strng{authorbibnamehash}{63270e1888fbafec0be14a0fd26a17c5}
+      \strng{authornamehash}{63270e1888fbafec0be14a0fd26a17c5}
+      \strng{authorfullhash}{63270e1888fbafec0be14a0fd26a17c5}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International conference on intelligent text processing and computational linguistics}
+      \field{title}{An adapted Lesk algorithm for word sense disambiguation using WordNet}
+      \field{year}{2002}
+      \field{pages}{136\bibrangedash 145}
+      \range{pages}{10}
+    \endentry
+    \entry{lowe1994understanding}{article}{}
+      \name{author}{2}{}{%
+        {{hash=663b9f26b49d883434962aa9c8bb44cc}{%
+           family={Lowe},
+           familyi={L\bibinitperiod},
+           given={Henry\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=258df884d8dc20851c0b46305f10f536}{%
+           family={Barnett},
+           familyi={B\bibinitperiod},
+           given={G\bibnamedelima Octo},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Medical Association}%
+      }
+      \strng{namehash}{ffec059fb886a99ceb52b0364e50c755}
+      \strng{fullhash}{ffec059fb886a99ceb52b0364e50c755}
+      \strng{bibnamehash}{ffec059fb886a99ceb52b0364e50c755}
+      \strng{authorbibnamehash}{ffec059fb886a99ceb52b0364e50c755}
+      \strng{authornamehash}{ffec059fb886a99ceb52b0364e50c755}
+      \strng{authorfullhash}{ffec059fb886a99ceb52b0364e50c755}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jama}
+      \field{number}{14}
+      \field{title}{Understanding and using the medical subject headings (MeSH) vocabulary to perform literature searches}
+      \field{volume}{271}
+      \field{year}{1994}
+      \field{pages}{1103\bibrangedash 1108}
+      \range{pages}{6}
+    \endentry
+    \entry{miller1995wordnet}{article}{}
+      \name{author}{1}{}{%
+        {{hash=707b823abf497389dc012bbdc891b57b}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={George\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{707b823abf497389dc012bbdc891b57b}
+      \strng{fullhash}{707b823abf497389dc012bbdc891b57b}
+      \strng{bibnamehash}{707b823abf497389dc012bbdc891b57b}
+      \strng{authorbibnamehash}{707b823abf497389dc012bbdc891b57b}
+      \strng{authornamehash}{707b823abf497389dc012bbdc891b57b}
+      \strng{authorfullhash}{707b823abf497389dc012bbdc891b57b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{11}
+      \field{title}{WordNet:a lexical database for English}
+      \field{volume}{38}
+      \field{year}{1995}
+      \field{pages}{39\bibrangedash 41}
+      \range{pages}{3}
+    \endentry
+    \entry{weibel1998dublin}{report}{}
+      \name{author}{4}{}{%
+        {{hash=69a0eb4ef68a6ad12775ae7738bac92e}{%
+           family={Weibel},
+           familyi={W\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=30c54b0e0c7a35eb98bbd4735e4bffd5}{%
+           family={Kunze},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0ccc93d67e04ecf08face2c3b91db636}{%
+           family={Lagoze},
+           familyi={L\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ffcbf167ecb0897084adc14b15f881bf}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Misha},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{eed57fa66a52156a86ccffefbeeaa8e4}
+      \strng{fullhash}{85db80f2bc8dd2e78d3e532ca6bc5db6}
+      \strng{bibnamehash}{eed57fa66a52156a86ccffefbeeaa8e4}
+      \strng{authorbibnamehash}{eed57fa66a52156a86ccffefbeeaa8e4}
+      \strng{authornamehash}{eed57fa66a52156a86ccffefbeeaa8e4}
+      \strng{authorfullhash}{85db80f2bc8dd2e78d3e532ca6bc5db6}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dublin core metadata for resource discovery}
+      \field{type}{techreport}
+      \field{year}{1998}
+    \endentry
+    \entry{steinkraus2005using}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c1e7c094b8682a55c8b027b68f3a0e80}{%
+           family={Steinkraus},
+           familyi={S\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+        {{hash=26af11cfc02d0f239a5482f14e1413f7}{%
+           family={Buck},
+           familyi={B\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=f87cb5ca5bb69474ce4c6750c54016bc}{%
+           family={Simard},
+           familyi={S\bibinitperiod},
+           given={PY},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{fullhash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{bibnamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{authorbibnamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{authornamehash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \strng{authorfullhash}{2d966d23b6bd314dd15eaa181c79ec3e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Eighth International Conference on Document Analysis and Recognition (ICDAR'05)}
+      \field{title}{Using GPUs for machine learning algorithms}
+      \field{year}{2005}
+      \field{pages}{1115\bibrangedash 1120}
+      \range{pages}{6}
+    \endentry
+    \entry{baker1998berkeley}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a05f6dccc2782fe82991bad69864b53e}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Collin\bibnamedelima F},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f252cc90e6a108aaca9a90b1d9cfad46}{%
+           family={Fillmore},
+           familyi={F\bibinitperiod},
+           given={Charles\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=823115392a590131d017cf19ddef4312}{%
+           family={Lowe},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{7f11ed7dc03e8b9e0bebbc2db423bc67}
+      \strng{fullhash}{7f11ed7dc03e8b9e0bebbc2db423bc67}
+      \strng{bibnamehash}{7f11ed7dc03e8b9e0bebbc2db423bc67}
+      \strng{authorbibnamehash}{7f11ed7dc03e8b9e0bebbc2db423bc67}
+      \strng{authornamehash}{7f11ed7dc03e8b9e0bebbc2db423bc67}
+      \strng{authorfullhash}{7f11ed7dc03e8b9e0bebbc2db423bc67}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 17th international conference on Computational linguistics-Volume 1}
+      \field{title}{The berkeley framenet project}
+      \field{year}{1998}
+      \field{pages}{86\bibrangedash 90}
+      \range{pages}{5}
+    \endentry
+    \entry{yahya2012natural}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=12d5020b53643f7fc1333946fa31f54a}{%
+           family={Yahya},
+           familyi={Y\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c90a100574009223ee4ea44d4ea64a08}{%
+           family={Berberich},
+           familyi={B\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2bf4b746fadf1451a98c8691ff1c1dce}{%
+           family={Elbassuoni},
+           familyi={E\bibinitperiod},
+           given={Shady},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a72a2e247290aa5edceb95e48e4dcb5b}{%
+           family={Ramanath},
+           familyi={R\bibinitperiod},
+           given={Maya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7b4bb47afe2e1fc9925f6178ea46b207}{%
+           family={Tresp},
+           familyi={T\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e47f9d085c16045a5911784850208ada}{%
+           family={Weikum},
+           familyi={W\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{b3ac18b994a609882cb30446a84ed611}
+      \strng{fullhash}{2546fe2aea0f6c5d59a5c790a7994581}
+      \strng{bibnamehash}{b3ac18b994a609882cb30446a84ed611}
+      \strng{authorbibnamehash}{b3ac18b994a609882cb30446a84ed611}
+      \strng{authornamehash}{b3ac18b994a609882cb30446a84ed611}
+      \strng{authorfullhash}{2546fe2aea0f6c5d59a5c790a7994581}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning}
+      \field{title}{Natural language questions for the web of data}
+      \field{year}{2012}
+      \field{pages}{379\bibrangedash 390}
+      \range{pages}{12}
+    \endentry
+    \entry{kaufmann2007nlp}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a49d55501f4254960b162f247129bd07}{%
+           family={Kaufmann},
+           familyi={K\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod}}}%
+        {{hash=88f4d8f5816512d21305d7ed8265d764}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod}}}%
+        {{hash=14a43b205a619cbc03eae06bb66a9486}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Lorenz},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d756f9834b4b4694c747b8880f3834f4}
+      \strng{fullhash}{d756f9834b4b4694c747b8880f3834f4}
+      \strng{bibnamehash}{d756f9834b4b4694c747b8880f3834f4}
+      \strng{authorbibnamehash}{d756f9834b4b4694c747b8880f3834f4}
+      \strng{authornamehash}{d756f9834b4b4694c747b8880f3834f4}
+      \strng{authorfullhash}{d756f9834b4b4694c747b8880f3834f4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{4th European Semantic Web Conference ESWC}
+      \field{title}{NLP-Reduce: A naive but domainindependent natural language interface for querying ontologies}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+    \endentry
+    \entry{chen2014fast}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=aed188db3fc6855ac5666aa14e04a3bb}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Danqi},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ff4377244c68b8beb3253e53d6387f94}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dc5b01651390a912510de68f0a83e4b}
+      \strng{fullhash}{3dc5b01651390a912510de68f0a83e4b}
+      \strng{bibnamehash}{3dc5b01651390a912510de68f0a83e4b}
+      \strng{authorbibnamehash}{3dc5b01651390a912510de68f0a83e4b}
+      \strng{authornamehash}{3dc5b01651390a912510de68f0a83e4b}
+      \strng{authorfullhash}{3dc5b01651390a912510de68f0a83e4b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)}
+      \field{title}{A fast and accurate dependency parser using neural networks}
+      \field{year}{2014}
+      \field{pages}{740\bibrangedash 750}
+      \range{pages}{11}
+    \endentry
+    \entry{mcguinness2004owl}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{2}{}{%
+        {{hash=e40d917c30bb93a7a8f8ca639e62de69}{%
+           family={McGuinness},
+           familyi={M\bibinitperiod},
+           given={Deborah\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2ee8911bffcd1b0c3b084e3b6f2d3a64}{%
+           family={Van\bibnamedelima Harmelen},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{72ca2da7f1fd7f95a17ff9fa439c6cb9}
+      \strng{fullhash}{72ca2da7f1fd7f95a17ff9fa439c6cb9}
+      \strng{bibnamehash}{72ca2da7f1fd7f95a17ff9fa439c6cb9}
+      \strng{authorbibnamehash}{72ca2da7f1fd7f95a17ff9fa439c6cb9}
+      \strng{authornamehash}{72ca2da7f1fd7f95a17ff9fa439c6cb9}
+      \strng{authorfullhash}{72ca2da7f1fd7f95a17ff9fa439c6cb9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{W3C recommendation}
+      \field{number}{10}
+      \field{title}{OWL web ontology language overview}
+      \field{volume}{10}
+      \field{year}{2004}
+      \field{pages}{2004}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
